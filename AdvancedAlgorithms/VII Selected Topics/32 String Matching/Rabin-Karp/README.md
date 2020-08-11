@@ -6,11 +6,21 @@
 
 [Rabin-Karp , The String Matching Algorithm](https://medium.com/@bhaktithaker29.bt/rabin-karp-the-string-matching-algorithm-ca0ba1f8e5fa)
 
-#اسلایدها
+# درس ها و اسلایدها
+[coursera - Algorithms, Part II](https://www.coursera.org/lecture/algorithms-part2/rabin-karp-3KiqT)
+
 [The Rabin-Karp Algorithm](https://www.slideserve.com/ashton/the-rabin-karp-algorithm)
 
-#نمونه کدها
+[~istreinu/Teaching/Courses/252/Fall00](http://cs.smith.edu/~istreinu/Teaching/Courses/252/Fall00/Fall00Acct/handin/Present/252a-af/)
+
+[Algorithms 2 -  Bar-Ilan University](http://u.cs.biu.ac.il/~golansh1/89-322/)
+
+# نمونه کدها
+[RDPerera - Rabin-Karp-Algo](https://github.com/RDPerera/Rabin-Karp-Algo)
+
 [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+
+[saromanov - rka](https://github.com/saromanov/rka)
 
 [The Rabin-Karp-Algorithm](https://www.javatpoint.com/daa-rabin-karp-algorithm)
 
@@ -24,13 +34,13 @@
 
 [rabin-karp-search](https://github.com/morenoh149/rabin-karp-search)
 
-[rka](https://github.com/saromanov/rka)
-
 [Data-Structure](https://github.com/chandan4u/Data-Structure)
 
-#ویدیوها
+# ویدیوها
 [Rabin-Karp Algorithm | Searching for Patterns | GeeksforGeeks](https://www.youtube.com/watch?v=oxd_Z1osgCk)
+
 [Rabin Karp Substring Search Pattern Matching](https://www.youtube.com/watch?v=H4VrKHVG5qI)
+
 [9.2 Rabin-Karp String Matching Algorithm](https://www.youtube.com/watch?v=qQ8vS2btsxI)
 
 # ویدیوهای مکمل
