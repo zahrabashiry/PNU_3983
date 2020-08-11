@@ -42,13 +42,13 @@ const graphs =
       "t": { id: 't', label: 'T'}
     },
     edges: {
-      "0": { id: "0", from:"s", to:"a", arrows: "to", capacity:20, fill_capacity:0, label:"0/20", color: { color: "#2b7ce9" }, residual: false },
-      "1": { id: "1", from:"s", to:"c", arrows: "to", capacity:30, fill_capacity:0, label:"0/30", color: { color: "#2b7ce9" }, residual: false },
-      "2": { id: "2", from:"a", to:"b", arrows: "to", capacity:10, fill_capacity:0, label:"0/10", color: { color: "#2b7ce9" }, residual: false },
-      "3": { id: "3", from:"a", to:"d", arrows: "to", capacity:20, fill_capacity:0, label:"0/20", color: { color: "#2b7ce9" }, residual: false },
-      "4": { id: "4", from:"b", to:"t", arrows: "to", capacity:15, fill_capacity:0, label:"0/15", color: { color: "#2b7ce9" }, residual: false },
-      "5": { id: "5", from:"c", to:"b", arrows: "to", capacity:20, fill_capacity:0, label:"0/20", color: { color: "#2b7ce9" }, residual: false },
-      "6": { id: "6", from:"d", to:"t", arrows: "to", capacity:30, fill_capacity:0, label:"0/30", color: { color: "#2b7ce9" }, residual: false }
+      "0": { id: "0", from:"s", to:"a",  capacity:20,  label:"0/20", },
+      "1": { id: "1", from:"s", to:"c",  capacity:30,  label:"0/30", },
+      "2": { id: "2", from:"a", to:"b",  capacity:10,  label:"0/10", },
+      "3": { id: "3", from:"a", to:"d",  capacity:20,  label:"0/20", },
+      "4": { id: "4", from:"b", to:"t",  capacity:15,  label:"0/15", },
+      "5": { id: "5", from:"c", to:"b",  capacity:20,  label:"0/20", },
+      "6": { id: "6", from:"d", to:"t",  capacity:30,  label:"0/30", }
     }
   };
 
