@@ -34,6 +34,8 @@
 
 [Data-Structure](https://github.com/chandan4u/Data-Structure)
 
+[RDPerera - Rabin-Karp-Algo](https://github.com/RDPerera/Rabin-Karp-Algo)
+
 # ویدیوها
 [Rabin-Karp Algorithm | Searching for Patterns | GeeksforGeeks](https://www.youtube.com/watch?v=oxd_Z1osgCk)
 
