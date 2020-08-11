@@ -8,6 +8,7 @@
 
 # درس ها و اسلایدها
 [coursera - Algorithms, Part II](https://www.coursera.org/lecture/algorithms-part2/rabin-karp-3KiqT)
+
 [The Rabin-Karp Algorithm](https://www.slideserve.com/ashton/the-rabin-karp-algorithm)
 
 [~istreinu/Teaching/Courses/252/Fall00](http://cs.smith.edu/~istreinu/Teaching/Courses/252/Fall00/Fall00Acct/handin/Present/252a-af/)
