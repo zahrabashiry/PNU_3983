@@ -20,7 +20,7 @@
 
 [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
-[rka](https://github.com/saromanov/rka)
+[saromanov - rka](https://github.com/saromanov/rka)
 
 [The Rabin-Karp-Algorithm](https://www.javatpoint.com/daa-rabin-karp-algorithm)
 
