@@ -2,7 +2,7 @@
 
 > درس الگوریتم پیشرفته - تابستان ۹۹
 
-- [Advanced Algorithms](#Advanced-Algorithms)
+- [Advanced Algorithms](# Advanced-Algorithms)
     * [راهنمای نام گذاری پوشه ها بر اساس فصل های کتاب منبع](#راهنمای-نام-گذاری-پوشه-ها-بر-اساس-فصل-های-کتاب-منبع)
     * [  نمونه سایت های آموزشی](#نمونه-سایت-های-آموزشی)
     * [اسامی دانشجویان بر اساس انتخاب الگوریتم ها](#اسامی-دانشجویان-بر-اساس-انتخاب-الگوریتم-ها)
@@ -37,8 +37,8 @@
 ## V Advanced Data Structures
 - 18 B-Trees
 - 19 [Fibonacci Heap **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/19%20Fibonacci%20Heap)
-- 20 [Van Emde Boas Trees**](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
-- 21  [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
+- 20 [Van Emde Boas Trees **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/20%20Van%20Emde%20Boas%20Trees)
+- 21 [Data Structures for Disjoint Sets **](https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/V%20Advanced%20Data%20Structures/21%20Data%20Structures%20for%20Disjoint%20Sets)
 ## VI Graph Algorithms
 - 22 Elementary Graph Algorithms
 - 23 Minimum Spanning Trees
