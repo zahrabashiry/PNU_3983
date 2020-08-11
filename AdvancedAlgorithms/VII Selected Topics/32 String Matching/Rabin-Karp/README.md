@@ -9,6 +9,10 @@
 # اسلایدها
 [The Rabin-Karp Algorithm](https://www.slideserve.com/ashton/the-rabin-karp-algorithm)
 
+[~istreinu/Teaching/Courses/252/Fall00](http://cs.smith.edu/~istreinu/Teaching/Courses/252/Fall00/Fall00Acct/handin/Present/252a-af/)
+
+[Algorithms 2 -  Bar-Ilan University](http://u.cs.biu.ac.il/~golansh1/89-322/)
+
 # نمونه کدها
 [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
