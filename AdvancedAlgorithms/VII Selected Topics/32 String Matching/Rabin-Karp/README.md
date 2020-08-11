@@ -11,7 +11,22 @@
 
 #نمونه کدها
 [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+
 [The Rabin-Karp-Algorithm](https://www.javatpoint.com/daa-rabin-karp-algorithm)
+
+[rabin-karp-sastrawi](https://github.com/andyptra/rabin-karp-sastrawi)
+
+[Rabin-Karp](https://github.com/mccricardo/Rabin-Karp)
+
+[rabinkarp](https://github.com/jbaikge/rabinkarp)
+
+[rabin-karp-js](https://github.com/djktno/rabin-karp-js)
+
+[rabin-karp-search](https://github.com/morenoh149/rabin-karp-search)
+
+[rka](https://github.com/saromanov/rka)
+
+[Data-Structure](https://github.com/chandan4u/Data-Structure)
 
 #ویدیوها
 [Rabin-Karp Algorithm | Searching for Patterns | GeeksforGeeks](https://www.youtube.com/watch?v=oxd_Z1osgCk)
