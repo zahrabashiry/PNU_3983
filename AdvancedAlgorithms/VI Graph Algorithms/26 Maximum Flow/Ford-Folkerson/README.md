@@ -23,11 +23,11 @@
 
 *Consider the following graph*
 
-<img src="/images/ford_fulkerson11.png">
+<img src="https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow/Ford-Folkerson/images/ford_fulkerson11.png">
 
 *Maximum possible flow in the given graph is 23*
 
-<img src="/images/ford_fulkerson2.png">
+<img src="https://github.com/AliRazavi-edu/PNU_3983/tree/master/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow/Ford-Folkerson/images/ford_fulkerson2.png">
 
 > graph definition in my js code
 ```javascript
