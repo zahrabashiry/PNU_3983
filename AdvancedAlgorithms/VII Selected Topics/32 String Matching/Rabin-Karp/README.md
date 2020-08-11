@@ -11,6 +11,7 @@
 
 #نمونه کدها
 [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+[The Rabin-Karp-Algorithm](https://www.javatpoint.com/daa-rabin-karp-algorithm)
 
 #ویدیوها
 [Rabin-Karp Algorithm | Searching for Patterns | GeeksforGeeks](https://www.youtube.com/watch?v=oxd_Z1osgCk)
