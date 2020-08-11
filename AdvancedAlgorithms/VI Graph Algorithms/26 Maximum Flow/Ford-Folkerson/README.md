@@ -1,6 +1,6 @@
 # FordFolkerson Algorithm
 
-[Click for Live Demo](https://mrganji9.github.io/fordfolkerson/)
+[Click for Live Demo](https://mrganji9.github.io/Ford-Folkerson/)
 
 # Graph-Theory-Ford-Fulkerson 
 
