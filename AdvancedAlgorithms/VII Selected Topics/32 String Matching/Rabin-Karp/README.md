@@ -6,10 +6,10 @@
 
 [Rabin-Karp , The String Matching Algorithm](https://medium.com/@bhaktithaker29.bt/rabin-karp-the-string-matching-algorithm-ca0ba1f8e5fa)
 
-#اسلایدها
+# اسلایدها
 [The Rabin-Karp Algorithm](https://www.slideserve.com/ashton/the-rabin-karp-algorithm)
 
-#نمونه کدها
+# نمونه کدها
 [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
 [The Rabin-Karp-Algorithm](https://www.javatpoint.com/daa-rabin-karp-algorithm)
