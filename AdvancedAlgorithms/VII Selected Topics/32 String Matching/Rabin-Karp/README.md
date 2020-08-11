@@ -36,6 +36,8 @@
 
 [Data-Structure](https://github.com/chandan4u/Data-Structure)
 
+[a-r-d - minimal-text-search](https://github.com/a-r-d/minimal-text-search)
+
 # ویدیوها
 [Rabin-Karp Algorithm | Searching for Patterns | GeeksforGeeks](https://www.youtube.com/watch?v=oxd_Z1osgCk)
 
