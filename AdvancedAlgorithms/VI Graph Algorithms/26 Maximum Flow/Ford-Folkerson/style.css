@@ -1,3 +1,10 @@
+
+@import url(//db.onlinewebfonts.com/c/766132c828a90cbecf6f7f4027d12725?family=IRAN+Sans);
+
+@font-face {font-family: "IRAN Sans"; src: url("//db.onlinewebfonts.com/t/766132c828a90cbecf6f7f4027d12725.eot"); src: url("//db.onlinewebfonts.com/t/766132c828a90cbecf6f7f4027d12725.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/766132c828a90cbecf6f7f4027d12725.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/766132c828a90cbecf6f7f4027d12725.woff") format("woff"), url("//db.onlinewebfonts.com/t/766132c828a90cbecf6f7f4027d12725.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/766132c828a90cbecf6f7f4027d12725.svg#IRAN Sans") format("svg"); }
+
+
+
 .btn-xs {
   font-size: 10px;
   padding: 1px 10px

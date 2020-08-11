@@ -2,8 +2,10 @@ var ng = new NetworkGraph();
 var network;
 var currentMousePos = { x: -1, y: -1 };
 
+
+
 var options = {
-  layout: { randomSeed: 2 }, //to make sure the layout is the same
+  layout: { randomSeed: 2 },
   locale: "en",
   edges: {
     smooth: true
@@ -17,7 +19,7 @@ var options = {
       $("#network-popUp").css('top', getMousePos()["y"]+100 + "px");
       $("#network-popUp").css('left', getMousePos()["x"]-150 + "px");
 
-      $('#operation').html("Add Node");
+      $('#operation').html("افزودن گره");
       $('#node-label').val(data.label);
       document.getElementById('saveButton').onclick = saveData.bind(this, data, callback, false);
       document.getElementById('cancelButton').onclick = clearPopUp.bind();
@@ -27,7 +29,7 @@ var options = {
       $("#network-popUp").css('top', getMousePos()["y"]+100 + "px");
       $("#network-popUp").css('left', getMousePos()["x"]-150 + "px");
 
-      $('#operation').html("Edit Node");
+      $('#operation').html("ویرایش گره");
       $('#node-label').val(data.label);
       document.getElementById('saveButton').onclick = saveData.bind(this, data, callback, true);
       document.getElementById('cancelButton').onclick = cancelEdit.bind(this, callback);
@@ -46,7 +48,7 @@ var options = {
       $("#network-popUp-edge").css('top', getMousePos()["y"]+100 + "px");
       $("#network-popUp-edge").css('left', getMousePos()["x"]-150 + "px");
 
-      $('#operation-edge').html("Add Edge");
+      $('#operation-edge').html("افزودن یال");
       document.getElementById('saveButton-edge').onclick = saveDataEdge.bind(this, data, callback, true);
       document.getElementById('cancelButton-edge').onclick = clearPopUp.bind();
       $('#network-popUp-edge').show();

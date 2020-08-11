@@ -1,5 +1,5 @@
 const graphs = [
-  { // My Sample Graph 1
+  { // Graph 1
     nodes: {
       "s": { id: 's', label: 'S'},
       "a": { id: 'a', label: 'A'},
@@ -18,7 +18,7 @@ const graphs = [
       "6": { id: "6", from:"d", to:"t", arrows: "to", capacity:30, fill_capacity:0, label:"0/30", color: { color: "#2b7ce9" }, residual: false }
     }
   },
-  { //My Sample Graph 2
+  { // Graph 2
     nodes: {
       "s": { id: 's', label: 'S'},
       "a": { id: 'a', label: 'A'},
