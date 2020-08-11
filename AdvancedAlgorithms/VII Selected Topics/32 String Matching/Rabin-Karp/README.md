@@ -4,6 +4,11 @@
 
 [Rabin–Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
 
+[Rabin-Karp , The String Matching Algorithm](https://medium.com/@bhaktithaker29.bt/rabin-karp-the-string-matching-algorithm-ca0ba1f8e5fa)
+
+#اسلایدها
+[The Rabin-Karp Algorithm](https://www.slideserve.com/ashton/the-rabin-karp-algorithm)
+
 #نمونه کدها
 [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
