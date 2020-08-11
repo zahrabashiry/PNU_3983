@@ -32,7 +32,7 @@
 > graph definition in my js code
 ```javascript
 const graphs = 
-  { // My Sample Graph 1
+  {
     nodes: {
       "s": { id: 's', label: 'S'},
       "a": { id: 'a', label: 'A'},
