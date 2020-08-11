@@ -2,9 +2,10 @@
 
 [Click for Live Demo](https://mrganji9.github.io/Ford-Folkerson/)
 
-# Graph-Theory-Ford-Fulkerson 
+
 
 > Ford-Fulkerson Algorithm for Maximum Flow Problem
+
 ## Introduction
 
 *When a Graph Represent a Flow Network where every edge has a capacity. Also given that two vertices, source 's' and sink 't' in the graph, we can find the maximum possible flow from s to t with having following constraints:*
