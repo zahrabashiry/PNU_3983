@@ -148,5 +148,5 @@ and that's what you do to the product backlog during
 
 38
 00:01:49,599 --> 00:01:49,799
-the sprint
+the sprint.
 
