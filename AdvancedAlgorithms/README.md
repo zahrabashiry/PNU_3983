@@ -77,7 +77,7 @@
  
 
 
-+ [علی ارجمند](https://arjmand08.github.io/main/)  
++ [علی ارجمند](https://arjmand08.github.io/resume/)  
   - [@arjmand08](https://github.com/arjmand08)
   
   

@@ -1,7 +1,7 @@
 1
 00:00:00,930 --> 00:00:05,539
 Welcome to the Agile Crash Course,
-these scores will cover the most important
+these cource will cover the most important
 
 2
 00:00:05,639 --> 00:00:10,500
@@ -266,4 +266,3 @@ even three or four. That is something
 54
 00:04:18,339 --> 00:04:19,899
 for the project team to decide.
-
