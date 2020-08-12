@@ -4,7 +4,7 @@ What happens to the product backlog during the Sprint
 
 2
 00:00:04,200 --> 00:00:07,199
-as I said before in Sprint planning the developers
+as I said before, in Sprint planning the developers
 
 3
 00:00:07,299 --> 00:00:11,000
@@ -12,7 +12,7 @@ put the top product backlog items to the Sprint backlog.
 
 4
 00:00:11,300 --> 00:00:15,099
-So they are removed from the product backlog after
+So they are removed from the product backlog, after
 
 5
 00:00:15,199 --> 00:00:15,899
@@ -36,7 +36,7 @@ The activities are similar to what we discussed for
 
 10
 00:00:28,699 --> 00:00:31,800
-Sprint planning with the difference that you
+Sprint planning with the differences that you
 
 11
 00:00:32,000 --> 00:00:35,000
@@ -149,4 +149,8 @@ and that's what you do to the product backlog during
 38
 00:01:49,599 --> 00:01:49,799
 the sprint.
+
+
+
+
 
