@@ -12,8 +12,8 @@
 ### اسامی دانشجویان  کارشناسی
   
 
-1-+ [علیرضا آذرخش](https://azarakhsh2552.github.io/ )  
-  - [@azarakhsh2552](https://github.com/azarakhsh2552)
+1. + [علیرضا آذرخش](https://azarakhsh2552.github.io/ )  
+     - [@azarakhsh2552](https://github.com/azarakhsh2552)
   
   
   
