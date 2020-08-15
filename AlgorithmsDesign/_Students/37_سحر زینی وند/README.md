@@ -6,19 +6,19 @@
 :فهرست بخش اول
 
 1.زمان اجرای الگوریتم ها
-    + Insertionالگوریتم مرتب سازی
-    + بررسی حالت های مختلف یک الگوریتم  
+    + [Insertionالگوریتم مرتب سازی]
+    + [بررسی حالت های مختلف یک الگوریتم] 
 
 2.مرتبه اجرای الگوریتم
-    + Big-ohنماد
-    + Big-Omegaنماد
-    + نمادتتا
+    + [Big-oh]نماد
+    + [Big-Omega]نماد
+    + [نمادتتا]
 
 + [@ لینک ارائه](http://dl1.abrim.ir/Videos/FMP/Algorithm/SZ-980173622-Algorithm.mp4) 
 
 
 ----------------------------------------------------------------------------------------------------------
-:لینک رزومه،لینک گیت هاب
 
-+ [سحر زینی وندمقدم]( https://saharzeinivand.github.io/)  
-  - [@saharzeinivand](https://github.com/saharzeinivand)
+
++ [لینک رزومه]( https://saharzeinivand.github.io/)  
+  - [@لینک گیت هاب](https://github.com/saharzeinivand)
