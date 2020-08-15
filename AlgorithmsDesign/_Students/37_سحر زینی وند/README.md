@@ -1,6 +1,6 @@
 
 
-+ [ارائه بخش فصل ۱ - روشهای تحلیل الگوریتم1:](http://dl1.abrim.ir/Videos/FMP/Algorithm/SZ-980173622-Algorithm.mp4) 
++ [ارائه بخش اول فصل ۱ - روشهای تحلیل الگوریتم](http://dl1.abrim.ir/Videos/FMP/Algorithm/SZ-980173622-Algorithm.mp4) 
 
 
 
