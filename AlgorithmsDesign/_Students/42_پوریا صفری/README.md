@@ -1,9 +1,16 @@
-فصل سوم
-بخش اول روابط بازگشتی
+
+## AlgorithmsDesign
+
+> درس الگوریتم جبرانی - تابستان ۹۹
+
+<br>
+
+فصل ۳ - حل روابط بازگشتی
 پوریا صفری
 
 [پوریا صفری]( https://pooriasafari.github.io)  
   - [@pooriasafari]()
+
 
 لینک فایل 
 http://dl1.abrim.ir/Videos/FMP/Algorithm/PS-980173642-Algorithm.mp4
