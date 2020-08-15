@@ -1,6 +1,8 @@
 فصل سوم
 بخش اول روابط بازگشتی
 پوریا صفری
+آدرس گیت هاب   @pooriasafari
+آدرس رزومه    @ pooriasafari.github.io 
 
 لینک فایل 
 @ http://dl1.abrim.ir/Videos/FMP/Algorithm/PS-980173642-Algorithm.mp4
