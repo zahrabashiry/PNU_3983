@@ -1,11 +1,12 @@
 فصل سوم
 بخش اول روابط بازگشتی
 پوریا صفری
-آدرس گیت هاب   @pooriasafari
-آدرس رزومه    @ pooriasafari.github.io 
+
+[پوریا صفری]( https://pooriasafari.github.io)  
+  - [@pooriasafari]()
 
 لینک فایل 
-@ http://dl1.abrim.ir/Videos/FMP/Algorithm/PS-980173642-Algorithm.mp4
+http://dl1.abrim.ir/Videos/FMP/Algorithm/PS-980173642-Algorithm.mp4
 
     1. بررسی مفهوم روابط بازگشتی
     2. آموزش روش حل حدس
